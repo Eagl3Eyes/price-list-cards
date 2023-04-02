@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Starter Membership",
+        "price": 10,
+        "features": [
+            "10GB Storage",
+            "100GB Bandwidth",
+            "24/7 Support"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pro Membership",
+        "price": 20,
+        "features": [
+            "50GB Storage",
+            "500GB Bandwidth",
+            "24/7 Support",
+            "Custom Domain",
+            "Unlimited Email Accounts"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Business Membership",
+        "price": 30,
+        "features": [
+            "100GB Storage",
+            "1TB Bandwidth",
+            "24/7 Priority Support",
+            "Custom Domain",
+            "Unlimited Email Accounts",
+            "SSL Certificate",
+            "Advanced Analytics"
+        ]
+    }
+]
